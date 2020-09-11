@@ -1,0 +1,16 @@
+App.js
+    - no state
+    - no axios
+search form
+    - we want the data from search form to effect what's retrieved by the api req.
+    -conditionally route?
+
+Characters
+    - state Characters
+    - axios
+    - needs to know category, and id, then can manipule api call
+
+Planets
+    - state Planets
+    - axios
+
